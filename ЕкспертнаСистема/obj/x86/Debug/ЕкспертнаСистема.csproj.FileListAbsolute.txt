@@ -1,0 +1,154 @@
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\ЭС.exe.config
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\ЭС.exe
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\ЭС.pdb
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\mscorlib.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\sortkey.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\sorttbls.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\big5.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\bopomofo.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\ksc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\prc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\prcp.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\xjis.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\normidna.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\normnfc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\normnfd.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\normnfkc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\bin\Debug\normnfkd.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.DragText.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddDom.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddReason.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddRule.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddVal.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmAddVar.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmDomains.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmExplain.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmGoal.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmMain.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmQuestion.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmRules.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.frmVariables.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.Properties.Resources.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.Resource1.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CopyComplete
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.exe
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ES-master\ЭС\obj\x86\Debug\ЭС.pdb
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.exe.config
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.exe
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.pdb
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\mscorlib.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\sortkey.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\sorttbls.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\big5.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\bopomofo.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ksc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\prc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\prcp.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\xjis.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normidna.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfd.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfkc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfkd.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.DragText.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddDom.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddReason.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddRule.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddVal.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddVar.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmDomains.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmExplain.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmGoal.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmMain.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmQuestion.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmRules.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmVariables.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.Properties.Resources.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.Resource1.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CopyComplete
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.exe
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\курсова робота\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.pdb
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.exe.config
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.exe
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.pdb
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\mscorlib.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\sortkey.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\sorttbls.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\big5.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\bopomofo.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\ksc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\prc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\prcp.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\xjis.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normidna.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfd.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfkc.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\bin\Debug\normnfkd.nlp
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.DragText.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddDom.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddReason.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddRule.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddVal.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddVar.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmDomains.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmGoal.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmMain.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmQuestion.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmRules.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmVariables.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.Properties.Resources.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.Resource1.resources
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CopyComplete
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.exe
+C:\Users\lenovo\Documents\Учёба Сашки\4 курс 1 семестр\Системи штучного інтелекту\к\Експертна_Система\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.pdb
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.exe.config
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.exe
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\ЭС.pdb
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\mscorlib.dll
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\sortkey.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\sorttbls.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\big5.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\bopomofo.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\ksc.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\prc.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\prcp.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\xjis.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\normidna.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\normnfc.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\normnfd.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\normnfkc.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\bin\Debug\normnfkd.nlp
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.DragText.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddDom.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddReason.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddRule.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddVal.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmAddVar.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmDomains.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmGoal.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmMain.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmQuestion.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmRules.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.frmVariables.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.Properties.Resources.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.Resource1.resources
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЕкспертнаСистема.csproj.CopyComplete
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.exe
+C:\Users\lenovo\Desktop\КурсоваК19-2\ЕкспертнаСистема\ЭС\obj\x86\Debug\ЭС.pdb
